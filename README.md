@@ -70,7 +70,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Contact
-Your Name - Safiullah Korai
+Your Name - Safiullah Korai |
 Your Email - safiullahkorai600@gmail.com
 
 Project Link: https://github.com/Safiullahkorai-786/my-new-repo/
