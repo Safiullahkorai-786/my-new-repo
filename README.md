@@ -54,3 +54,23 @@ To run the program, open your terminal or command prompt, navigate to the direct
 
 ```bash
 Hello, World!
+
+This message confirms that the program has executed successfully.
+
+# Contributing
+This is a simple example project intended for educational purposes. Contributions are welcome if you want to expand it with more examples or add explanations. Please follow these steps to contribute:
+
+# Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Contact
+Your Name - Safiullah Korai
+Your Email - safiullahkorai600@gmail.com
+
+Project Link: https://github.com/Safiullahkorai-786/my-new-repo/
